@@ -6,9 +6,11 @@
 
 # OVA MARCOM — Engineering
 
-**Built and maintained by Med Amine Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238/)**
+**Built and maintained by Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238)**
 
-We're a digital-marketing & Web3 agency 🇲🇦. This account is our **engineering
+Contact: contact@ovamarcom.tech · https://ovamarcom.tech
+
+We're a digital-marketing & Web3 agency. This account is our **engineering
 showcase**: automation, Telegram bots, AI agents, and resilient data pipelines.
 The focus throughout is **reliability and honest measurement** — systems that run
 unattended for weeks, and numbers you can actually reproduce.
@@ -52,10 +54,12 @@ credentials, or configuration.
 
 ### À propos
 
-Vitrine technique d'**OVA MARCOM** (marketing digital & Web3, 🇲🇦) :
+Vitrine technique d'**OVA MARCOM** (marketing digital & Web3) :
 automatisation, bots Telegram, agents IA et pipelines de données — avec un accent
 sur la **fiabilité** et la **mesure honnête**. Les dépôts ci-dessus sont des
 *vitrines* : documentation d'architecture et exemples de code écrits from
 scratch, sans aucun code de production ni secret.
 
-*Conçu et maintenu par Med Amine Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238/) · [ovamarcom.tech](https://ovamarcom.tech)*
+*Conçu et maintenu par Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238)*
+
+Contact: contact@ovamarcom.tech · https://ovamarcom.tech
