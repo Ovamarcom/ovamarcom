@@ -1,65 +1,47 @@
 <!--
-  Profile README for the OVA MARCOM organization/user account.
+  Profile README for the OVA MARCOM account.
   This repo must be named exactly  ovamarcom/ovamarcom  for GitHub to render it
   on the account's profile.
 -->
 
-# OVA MARCOM — Engineering
+<h1 align="center">OVA&nbsp;&nbsp;MARCOM</h1>
 
-**Built and maintained by Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238)**
+<p align="center"><em>We build scalable SaaS platforms and secure Web3 systems.</em></p>
 
-Contact: contact@ovamarcom.tech · https://ovamarcom.tech
-
-We're a digital-marketing & Web3 agency. This account is our **engineering
-showcase**: automation, Telegram bots, AI agents, and resilient data pipelines.
-The focus throughout is **reliability and honest measurement** — systems that run
-unattended for weeks, and numbers you can actually reproduce.
-
-## Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat&logo=ubuntu&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat&logo=socketdotio&logoColor=white)
-
-## Selected work
-
-These are **showcase** repositories — architecture notes and fresh, runnable
-example code that demonstrate the patterns. They contain no production source,
-credentials, or configuration.
-
-- **[ova-signals-architecture](https://github.com/ovamarcom/ova-signals-architecture)**
-  — Delivery infrastructure and *measurement-integrity* engineering for a
-  Telegram signal system: honest R accounting, trailing-stop ladders, confidence
-  calibration. (Engineering demo, not financial advice.)
-- **[gapless-market-recorder](https://github.com/ovamarcom/gapless-market-recorder)**
-  — Reliability-first futures market-data recorder: gap detection, backfill
-  recovery, and "gapless" verified rather than assumed.
-- **[ai-email-triage-agent](https://github.com/ovamarcom/ai-email-triage-agent)**
-  — IMAP inbox → Claude Haiku triage classification → chat notification; the
-  evolution from a polling notifier into a triage agent.
-- **[telegram-news-automation](https://github.com/ovamarcom/telegram-news-automation)**
-  — Automated crypto-news channel: keyword filtering, importance ranking,
-  Jaccard dedup, and PIL-rendered branded cards.
-
-## Elsewhere
-
-🌐 [ovamarcom.tech](https://ovamarcom.tech)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude API">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
 ---
 
-### À propos
+## What we build
 
-Vitrine technique d'**OVA MARCOM** (marketing digital & Web3) :
-automatisation, bots Telegram, agents IA et pipelines de données — avec un accent
-sur la **fiabilité** et la **mesure honnête**. Les dépôts ci-dessus sont des
-*vitrines* : documentation d'architecture et exemples de code écrits from
-scratch, sans aucun code de production ni secret.
+- **SaaS platforms** — scalable web products, from MVP to production.
+- **Telegram / AI automation** — bots and LLM agents that run unattended.
+- **Web3 & smart contracts** — on-chain integrations and dApp frontends.
+- **Data pipelines** — resilient collection, processing, and delivery.
 
-*Conçu et maintenu par Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238)*
+## Selected engineering work
+
+Showcase repositories — architecture notes and fresh, runnable examples. No
+production source, credentials, or configuration.
+
+| | |
+| --- | --- |
+| **[ova-signals-architecture](https://github.com/ovamarcom/ova-signals-architecture)**<br/>Measurement-integrity engineering for a Telegram signal system — honest R accounting. *(engineering demo, not financial advice)* | **[gapless-market-recorder](https://github.com/ovamarcom/gapless-market-recorder)**<br/>Reliability-first market-data recorder — gap detection, backfill, and gapless verification. |
+| **[ai-email-triage-agent](https://github.com/ovamarcom/ai-email-triage-agent)**<br/>IMAP inbox → Claude Haiku triage classification → chat notification. | **[telegram-news-automation](https://github.com/ovamarcom/telegram-news-automation)**<br/>Automated news channel — keyword filtering, importance ranking, dedup, card rendering. |
+
+## How we work
+
+- **Measurement over hype** — reproducible numbers, not adjectives.
+- **Validate before you scale** — prove it works on a small, honest test before committing real resources.
+- **Ship small, verify, iterate** — small changes, verified end-to-end, then repeat.
+
+---
+
+**Built and maintained by Abderrahman Ettalhaoui — Partner @ OVA MARCOM · [LinkedIn](https://www.linkedin.com/in/abderrahman-ettalhaoui-2a9891238)**
 
 Contact: contact@ovamarcom.tech · https://ovamarcom.tech
