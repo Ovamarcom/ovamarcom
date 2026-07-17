@@ -34,7 +34,7 @@ production source, credentials, or configuration.
 | **[ova-signals-architecture](https://github.com/ovamarcom/ova-signals-architecture)**<br/>Measurement-integrity engineering for a Telegram signal system — honest R accounting. *(engineering demo, not financial advice)* | **[gapless-market-recorder](https://github.com/ovamarcom/gapless-market-recorder)**<br/>Reliability-first market-data recorder — gap detection, backfill, and gapless verification. |
 | **[ai-email-triage-agent](https://github.com/ovamarcom/ai-email-triage-agent)**<br/>IMAP inbox → Claude Haiku triage classification → chat notification. | **[telegram-news-automation](https://github.com/ovamarcom/telegram-news-automation)**<br/>Automated news channel — keyword filtering, importance ranking, dedup, card rendering. |
 
-### Selected clients
+## Selected clients
 
 Smart contracts · dApps · Web3 marketing · Web platforms
 
